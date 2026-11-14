@@ -1,0 +1,5 @@
+dados/*.h5
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
